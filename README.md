@@ -11,7 +11,7 @@ Record a 2-3 minute video demonstrating your solution. This is your backup in ca
 
 Each team will have exactly 5 minutes to pitch and demo their project.
 
-Presentations will be followed by 3 minutes of Q&A from the judges.
+Presentations will be followed by 5 minutes of Q&A from the judges.
 You must have your backup video ready to play immediately in case your live software demo fails.
 
 All intellectual property (IP) and code created during the Lutes x Stremet Hackathon remains the sole property of the participating teams.
